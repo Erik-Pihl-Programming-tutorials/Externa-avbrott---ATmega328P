@@ -9,6 +9,10 @@ Filen "asm external interrupt demo.zip" demonstrerar flankstyrda externa avbrott
 Här demonstreras hur en avbrottsrutin inte är något annat än en subrutin (funktion) på en viss adress i programminnet,
 i detta fall adress 0x0002 för externt avbrott INT0.
 
-Se video tutorials här:
-Flankstyrda externa avbrott: https://youtu.be/gqqMUGeyw2E
-Icke-flankstyrda externa avbrott: https://youtu.be/_ZN9jcZ_Zqk
+Se video tutorials via länkarna nedan:
+
+Flankstyrda externa avbrott: 
+https://youtu.be/gqqMUGeyw2E
+
+Icke-flankstyrda externa avbrott: 
+https://youtu.be/_ZN9jcZ_Zqk
